@@ -2,6 +2,8 @@
 
 # 
 author: Evan J. Ramos
+
+#
 publication: Ramos, E.J., Hesse, M.A., Barnes, J.D., Jordan, J.S., and Lackey, J.S., 2018. Re-evaluating fluid
              sources during skarn formation: an assessment of the Empire Mountain skarn, Sierra Nevada, USA.
              Geochemistry, Geophysics, Geosystems.
